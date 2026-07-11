@@ -79,7 +79,3 @@ export x_tgym3amxmby5axbn="$o"
 if ! "$t/x" >"$l" 2>&1; then
   f "run failed"
 fi
-
-if [ -n "${x_mcp76o4f7xwt6rn4:-}" ]; then
-  n GITHUB_OUTPUT
-fi
